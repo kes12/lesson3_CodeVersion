@@ -1,1 +1,0 @@
-<center> <img src=".guides/img/Lesson2_Rubric-Codio_Summary.png"></center>
